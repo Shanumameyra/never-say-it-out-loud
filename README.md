@@ -1,8 +1,8 @@
 # Never Say It Out Loud
 
-![make.fun](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd.svg)
-![rank](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd/Shanumameyra/never-say-it-out-loud/rank.svg)
-![reward](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd/Shanumameyra/never-say-it-out-loud/reward.svg)
+[![make.fun · u-pucuys-never-say-it-out-loud-8198c3cd](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-never-say-it-out-loud-8198c3cd)
+[![rank](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd/Shanumameyra/never-say-it-out-loud/rank.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-never-say-it-out-loud-8198c3cd)
+[![reward](https://make.fun/badge/u-pucuys-never-say-it-out-loud-8198c3cd/Shanumameyra/never-say-it-out-loud/reward.svg)](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-never-say-it-out-loud-8198c3cd)
 
 Entry for the make.fun bounty [Never Say It Out Loud](https://make.fun/bounty/u-pucuys-never-say-it-out-loud-8198c3cd).
 
